@@ -1,0 +1,18 @@
+
+header.horizontal nav ul li {
+    display:  inline;  /* los li son elementos en bloque , los cambio a en linea */
+    
+}
+header.horizontal nav{
+    text-align: right;
+}
+
+header.horizontal nav.menu{
+    
+    background-color: rgba(255, 255, 255, 0.5);
+    padding: 5px 0;
+}
+header.horizontal nav.redes{
+
+    margin-top: 10px;
+}

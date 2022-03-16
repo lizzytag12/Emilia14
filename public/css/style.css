@@ -1,7 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Raleway:wght@400;700&family=Work+Sans&display=swap');
+@import './general.css';
+@import './header.css';
 @import './home.css';
 @import './about.css';
 @import './music.css';
 @import './contact.css';
-@import './general.css'
+
 

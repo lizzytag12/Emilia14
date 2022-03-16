@@ -1,3 +1,21 @@
-body.music{
-    background-color: rgb(197, 226, 117);
+
+
+.music header{
+    background-image: url("/images/emilia-music-top.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 30px;
+    padding-bottom: 30px;
+} 
+.music a.goTop{
+    color: grey
+}
+.music main section ol li{
+    list-style-type: decimal-leading-zero;
+}
+.music main section ol li a {
+    font-weight: 200px;
+}
+.music main section p {
+    line-height: 10px;
 }
